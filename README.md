@@ -1,2 +1,2 @@
 # gitEgithub
- repositorio do curso de github
+ primeiro repositorio do curso de git e gitthub
