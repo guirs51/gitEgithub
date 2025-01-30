@@ -1,6 +1,6 @@
 # gitEgithub
 <<<<<<< HEAD
- repositorio do curso de github
+ repositorio do curso de gi e github
 
 adicionando uma comentario
 =======
